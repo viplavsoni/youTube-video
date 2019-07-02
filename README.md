@@ -1,6 +1,6 @@
 # youTube-video
 
-1. Clone this repository.
+1. Clone this repository from `https://github.com/viplavsoni/youTube-video.git`.
 
 2. Run `npm i` to install the dependencies.
 
